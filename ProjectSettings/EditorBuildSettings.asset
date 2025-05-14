@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Tela-inicial.unity
     guid: 62584a91858e45e42b503745edb3fb77
   - enabled: 1
+    path: Assets/Scenes/Tela-objetivos.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Tela-funcionamento.unity
+    guid: c6161ace9e40fa74f9c3d57e6aaaac43
+  - enabled: 1
     path: Assets/Scenes/Tela-beneficios.unity
     guid: 3f4e9464313fefb47befaa956165df8a
   - enabled: 1
-    path: Assets/Scenes/Tela-objetivos.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Teste Ecocamping.unity
+    guid: 0c616b857fb1d6348a7cd344cd113f0c
   m_configObjects: {}
